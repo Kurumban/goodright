@@ -1,12 +1,12 @@
 ## Welcome to Good Right Home page
 
 ```markdown
-   [perceptions]
-   [view]
-   [ideas]
-   [drawbacks]
-   [positive]
-   [achievements]
+  * **Perceptions**
+  * **View**
+   *Ideas*
+   *Drawbacks*
+   **Positive**
+   **Achievements**
    
    
 ```  
