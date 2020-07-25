@@ -1,7 +1,9 @@
 ## Welcome to Good Right Home page
-<B> All is good<B>
-  
-GoodRight
+
+```markdown
+    <B> All is good<B>
+```  
+
 You can use the [editor on GitHub](https://github.com/Kurumban/goodright/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -9,8 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ```markdown
-
-[Link](www.keralapolice.gov.in) and ![Image](src)
+For more information(www.keralapolice.gov.in) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -19,6 +20,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kurumban/goodright/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-Email: ajimails@gmail.com
+```markdown
+    Support or Contact
+    Email: ajimails@gmail.com
+   
+```  
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
