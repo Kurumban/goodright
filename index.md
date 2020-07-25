@@ -1,5 +1,4 @@
-## Welcome to Good Right Home page
-
+*നമ്മള്ഴ പിന്നി്ട് വഴിയിലേയ്ക്ക് ഒരു തിരഞ്ഞുനോട്ടം*
 ```markdown
   * **Perceptions**
   * **View**
