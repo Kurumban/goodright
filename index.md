@@ -1,15 +1,13 @@
 # പ്രിയരെ.., 
-##എന്ഴെറ പുതിയ പേജിലേയ്ക്ക് സ്വാഗതം
+## പുതിയ പേജിലേയ്ക്ക് സ്വാഗതം
 
 ```markdown
-  * **Perceptions**
-  * **View**
-   *Ideas*
-   *Drawbacks*
-   **Positive**
-   **Achievements**
-   
-   
+# USE MASK
+# WASH YOUR HANDS AT REGULAR INTERVALS
+# SOCAIL DISTANCING
+# *STAY SAFE*
+# *BRAKE THE CHAIN*
+
 ```  
 
 You can use the [editor on GitHub](https://github.com/Kurumban/goodright/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
