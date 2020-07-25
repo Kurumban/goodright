@@ -1,7 +1,14 @@
 ## Welcome to Good Right Home page
 
 ```markdown
-    <B> All is good<B>
+   [perceptions]
+   [view]
+   [ideas]
+   [drawbacks]
+   [positive]
+   [achievements]
+   
+   
 ```  
 
 You can use the [editor on GitHub](https://github.com/Kurumban/goodright/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ```markdown
-For more information(www.keralapolice.gov.in) 
+[For more information](https://keralapolice.gov.in) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
